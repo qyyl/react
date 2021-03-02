@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ant-design/icons": "^4.5.0",
+    "antd": "^4.13.0",
+    "less": "^4.1.1",
+    "less-loader": "^8.0.0"
+  }
+}
